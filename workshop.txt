@@ -1,0 +1,14 @@
+version=1
+id=3037096619
+title=Safehouse Highlight
+description=Activates only when the context menu option is toggled, and when walking in the bounds of a safehouse. Highlights all floor tiles on the first floor. Players only see their own safehouse highlighted, admins see every safehouse highlighted.
+description=
+description=[h1]A message from the creator[/h1]
+description=Do you really enjoy this mod--or even better--want to build on it? Please consider [url=https://ko-fi.com/badonnthedeer]donating to me[/url]. I'm in financial need and every little bit helps!!
+description=
+description=[h1]Special Thanks[/h1]
+description=to Torstein and the Nexus Gaming community for commissioning this mod!
+description=
+description=[quote=Badonn]Please don't copy this mod and upload it as your own! Please also ask if you can use this in a mod pack. If you would like to translate the mod, send me a message or leave a comment and I'll work with you to add it in![/quote]
+tags=Build 41;Building;Interface;Misc;Multiplayer
+visibility=unlisted

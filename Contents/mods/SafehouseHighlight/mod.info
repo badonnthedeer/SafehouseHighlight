@@ -1,0 +1,5 @@
+name=SafehouseHighlight
+poster=poster.png
+id=SafehouseHighlight
+description=Adds a context menu to toggle highlighting of safehouses when you walk within their bounds.
+url=https://github.com/badonnthedeer/SafehouseHighlight
